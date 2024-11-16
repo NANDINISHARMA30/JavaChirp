@@ -16,10 +16,6 @@ Technology Stack:
     Sockets: ServerSocket for server setup, Socket for client connection.
     Multithreading: For handling multiple simultaneous clients.
 
-Applications:
 
-    Lightweight internal communication.
-    Educational projects to learn networking.
-    Live support or gaming chat.
 
 The app is simple, cross-platform, and customizable, making it a great starting point for understanding network programming and creating a reliable chat interface.
